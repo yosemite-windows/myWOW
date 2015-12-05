@@ -115,7 +115,7 @@ Get the compilation running in the background
 grunt watch
 ```
 
-Enjoy!
+Enjoy using it!
 
 ## Bug tracker
 
